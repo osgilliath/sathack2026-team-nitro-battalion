@@ -87,16 +87,35 @@ A microcontroller processes these inputs and switches between proximity, impact,
 
 <br>
 
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+  <img src="assets/htmldemo.avif" width="100%">
+</td>
+<td width="50%" valign="middle">
+
+## HTML Demo
+
+Real-time sensor data from the guidance system is transmitted to an interactive HTML dashboard, where the artillery shell’s orientation and canard movement are visualized.
+
+The dashboard provides a live representation of the system’s sensor readings and actuator state during operation.
+
+</td>
+</tr>
+</table>
+
 
 
 
 <p align="center">  
  
   <sub >
-    Smart India Hackathon 2026 · PS No: SIH26098 
+   SATURNALIA sathack event
     <br> 
      <img src="assets/cattt.avif" width="60" height="60" align="center">
-    Team : Better Call Tech Support
+    Team : nitro battalion
   </sub>
 </p>
 
